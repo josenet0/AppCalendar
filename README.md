@@ -1,0 +1,1 @@
+Neste projeto desenvolvi um aplicativo em Flutter composto pelas telas de Login/Cadastro, Calendário e Lista de Tarefas, seguindo todos os requisitos da atividade. O layout foi construído com foco em cores vibrantes e um estilo moderno, mantendo a identidade visual consistente em todas as telas.
